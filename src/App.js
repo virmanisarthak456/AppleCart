@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Cartitem from './Cartitem';
+// import Cartitem from './Cartitem';
 
 import Cart from './Cart';
 
